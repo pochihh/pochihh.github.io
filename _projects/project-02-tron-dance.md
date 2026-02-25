@@ -1,5 +1,5 @@
 ---
-title: "The infant Cardiac Robotic System (iCROSS)"
+title: "Tron Dance"
 excerpt: "A project for a performance in EE Night 2019<br/><img src='https://i.imgur.com/i9Zw5xK.jpg'>"
 collection: projects
 ---
